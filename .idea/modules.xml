@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LXYCat.iml" filepath="$PROJECT_DIR$/LXYCat.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/citypickerview/citypickerview.iml" filepath="$PROJECT_DIR$/citypickerview/citypickerview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newaffinity.iml" filepath="$PROJECT_DIR$/newaffinity.iml" />
       <module fileurl="file://$PROJECT_DIR$/tanybase/tanybase.iml" filepath="$PROJECT_DIR$/tanybase/tanybase.iml" />
     </modules>
   </component>
