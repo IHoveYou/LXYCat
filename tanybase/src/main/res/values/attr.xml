@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRCImageView">
+        <attr name="url" format="string"></attr>
+        <attr name="err" format="reference"></attr>
+    </declare-styleable>
+    <declare-styleable name="CountDownButton">
+        <attr name="millisinfuture" format="integer" />
+        <attr name="countdowninterva" format="integer" />
+        <attr name="normalColor" format="color" />
+        <attr name="countDownColor" format="color" />
+    </declare-styleable>
+</resources>

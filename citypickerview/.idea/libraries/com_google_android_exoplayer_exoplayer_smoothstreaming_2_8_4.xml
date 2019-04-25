@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.android.exoplayer:exoplayer-smoothstreaming-2.8.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.4.aar/345b9b2ecbc056d90af934eedbc47a8f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.4.aar/345b9b2ecbc056d90af934eedbc47a8f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.8.4/49fbe395ba72f24cc3b21a0eb99c4b84bcf81023/exoplayer-smoothstreaming-2.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

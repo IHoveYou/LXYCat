@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/common_ll_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/common_choose1"
+            layout="@layout/common_tv_layout" />
+
+        <View style="@style/common_horizontal_divider" />
+
+        <include
+            android:id="@+id/common_choose2"
+            layout="@layout/common_tv_layout" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/common_btn_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="6dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="取消"
+        android:textSize="15dp"
+        android:textColor="@color/black" />
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+RxPermissions申请权限用法
+RxPermissions rxPermissions = new RxPermissions(this);
+单个权限:
+rxPermissions
+    .request(Manifest.permission.CAMERA)
+    .subscribe(granted -> {
+        if (granted) { // Always true pre-M
+           // I can control the camera now
+        } else {
+           // Oups permission denied
+        }
+    });
+多个权限:
+rxPermissions
+    .request(Manifest.permission.CAMERA,
+             Manifest.permission.READ_PHONE_STATE)
+    .subscribe(granted -> {
+        if (granted) {
+           // All requested permissions are granted
+        } else {
+           // At least one permission is denied
+        }
+    });
+
+
+相册用法:
+https://github.com/crazycodeboy/TakePhoto/tree/master#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
