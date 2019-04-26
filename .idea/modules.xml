@@ -3,13 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LXYCat.iml" filepath="$PROJECT_DIR$/LXYCat.iml" />
-      <module fileurl="file://E:\newMyBase\2333\LXYCat\LXYCat.iml" filepath="E:\newMyBase\2333\LXYCat\LXYCat.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://E:\newMyBase\2333\LXYCat\app\app.iml" filepath="E:\newMyBase\2333\LXYCat\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/citypickerview/citypickerview.iml" filepath="$PROJECT_DIR$/citypickerview/citypickerview.iml" />
-      <module fileurl="file://E:\newMyBase\2333\LXYCat\citypickerview\citypickerview.iml" filepath="E:\newMyBase\2333\LXYCat\citypickerview\citypickerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/tanybase/tanybase.iml" filepath="$PROJECT_DIR$/tanybase/tanybase.iml" />
-      <module fileurl="file://E:\newMyBase\2333\LXYCat\tanybase\tanybase.iml" filepath="E:\newMyBase\2333\LXYCat\tanybase\tanybase.iml" />
     </modules>
   </component>
 </project>
